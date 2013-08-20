@@ -1,0 +1,15 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{tabularx}
+\makeatletter
+\def\hlinewd#1{%
+\noalign{\ifnum0=`}\fi\hrule \@height #1 %
+\futurelet\reserved@a\@xhline}
+\makeatother
+\begin{document}
+\begin{tabular}{ccc}
+\hlinewd{2pt}
+plo & plo & plo\\ \hlinewd{2pt}
+plo & plo & plo\\ \hlinewd{5pt}
+plo & plo & plo
+\end{tabular}
+\end{document}

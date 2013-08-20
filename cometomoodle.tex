@@ -1,0 +1,74 @@
+\documentclass[a4paper,10pt]{book}
+
+\usepackage[brazil]{babel}    % dá suporte para os termos na língua portuguesa do Brasil
+\usepackage[T1]{fontenc}      % Lê a codificação de fonte T1 (font encoding default é 0T1).
+\usepackage{lmodern}        % Fonte "Latin Modern", experimente no lugar de ae
+\usepackage{times}
+\usepackage{t1enc}         % Fonte "Times New", experimente no lugar de ae
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc} % acentuação em UTF8 (comente as linhas de inputenc, fontenc e ae)
+                              % Caso tenha problemas ao usar UTF-8, experimente \usepackage{ucs}
+\usepackage{indentfirst}       % indenta os primeiros parágrafos
+\usepackage{amssymb,amsmath}   % simbolos matemáticos providos pela AMS
+\usepackage[dvipdfm]{graphicx} % para inclusão de figuras (png, jpg, gif, bmp)
+\usepackage{graphics}          % figuras gráficas
+\usepackage{color}             % para letras e caixas coloridas
+\usepackage{makeidx}           % índice remissivo
+\usepackage{a4wide}            % correta formatação da página em A4
+\usepackage{setspace}          % para a distância entre linhas
+\usepackage{html}
+\usepackage{ulem}
+\usepackage{longtable} %para tabelas longas
+\usepackage{array}
+\usepackage[table]{xcolor}
+\usepackage{wrapfig}
+\usepackage[pdftex]{hyperref}
+\usepackage{longtable}
+
+%\usepackage{minitoc}
+
+\newcommand\atencao[1]{\textbf{}}
+
+\makeindex
+
+\title{Conte com Moodle no Próximo Semestre \\ \mbox{} \\ \includegraphics[width=2.0cm]{imagem/cap0/hat.jpg}}
+\author{UFPB Virtual}
+\date{April - 2013}
+
+\begin{document}
+
+\maketitle
+
+\pagenumbering{roman}
+
+\cleardoublepage
+\begin{center}
+\quad
+
+\vspace*{0.9\textheight}
+
+ \parbox[t]{0.7\textwidth}{Texto produzido para uso dos tutores e professores da UFPB Virtual.}
+\parbox[t]{12cm}{Registrado sob licença Creative Commons (\url{www.creativecommons.org})}
+\end{center}
+
+\index{Ubuntu}
+\index{Kile}
+\index{Creative Commons}
+\index{Moodle 1.9.3$^+$}
+
+\tableofcontents
+%\listoffigures
+
+\mainmatter
+\include{chapter01}
+\include{chapter02}
+\include{chapter03}
+\include{chapter04}
+\include{chapter05}
+\include{chapter06}
+\appendix
+\include{appendix_A}
+
+\printindex
+
+\end{document}
