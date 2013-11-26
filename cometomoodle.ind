@@ -1,32 +1,27 @@
 \begin{theindex}
 
-  \item \IeC {\^a}ncora, \hyperpage{31}, \hyperpage{33}
-
-  \indexspace
-
-  \item caracteres especiais, \hyperpage{37}
-  \item Configura\IeC {\c c}\IeC {\~a}o de perf\IeC {\'\i }l, 
-		\hyperpage{25}
+  \item caracteres especiais, \hyperpage{38}
+  \item Configuração de perfíl, \hyperpage{25}
   \item Creative Commons, \hyperpage{i}
 
   \indexspace
 
   \item editor
     \subitem alterando texto, \hyperpage{31}
-    \subitem caracteres, \hyperpage{35}
-    \subitem emoticons, \hyperpage{35}
+    \subitem caracteres, \hyperpage{36}
+    \subitem emoticons, \hyperpage{36}
     \subitem ferramentas, \hyperpage{31}
-    \subitem figuras, \hyperpage{35}
-    \subitem tabelas, \hyperpage{37}
+    \subitem figuras, \hyperpage{36}
+    \subitem tabelas, \hyperpage{38}
   \item editor HTML, \hyperpage{31}
-  \item emoticons, \hyperpage{37}
-  \item Enviando mensagem, \hyperpage{28}
-  \item Estat\IeC {\'\i }sticas do \ead, \hyperpage{1}
+  \item emoticons, \hyperpage{38}
+  \item Enviando mensagem, \hyperpage{29}
+  \item Estat{\' i}sticas do \ead, \hyperpage{1}
 
   \indexspace
 
   \item figura
-    \subitem enviar, \hyperpage{35}
+    \subitem enviar, \hyperpage{36}
 
   \indexspace
 
@@ -35,8 +30,8 @@
   \indexspace
 
   \item link, \hyperpage{31}
-    \subitem para \IeC {\^a}ncora, \hyperpage{33}
-    \subitem remover, \hyperpage{33}
+    \subitem para âncora, \hyperpage{34}
+    \subitem remover, \hyperpage{34}
   \item Login, \hyperpage{22}
 
   \indexspace
@@ -46,20 +41,24 @@
 
   \indexspace
 
-  \item pixels, \hyperpage{37}
+  \item pixels, \hyperpage{38}
 
   \indexspace
 
-  \item Recebendo mensagem, \hyperpage{27}
+  \item Recebendo mensagem, \hyperpage{28}
   \item Recuperando senha, \hyperpage{23}
 
   \indexspace
 
-  \item tabelas, \hyperpage{37}
+  \item tabelas, \hyperpage{38}
   \item Trocando senha, \hyperpage{22}
 
   \indexspace
 
   \item Ubuntu, \hyperpage{i}
+
+  \indexspace
+
+  \item âncora, \hyperpage{31}, \hyperpage{34}
 
 \end{theindex}
