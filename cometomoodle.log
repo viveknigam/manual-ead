@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.15)  26 NOV 2013 10:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.5.15)  26 NOV 2013 10:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,10 +611,10 @@ Package pdftex.def Info: imagem/cap1/fig1.jpg used on input line 109.
 (pdftex.def)             Requested size: 148.60777pt x 166.36377pt.
  [2] [3 <./imagem/cap1/fig1.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 186.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 185.
 
 
-LaTeX Warning: Reference `sec:apendice' on page 4 undefined on input line 186.
+LaTeX Warning: Reference `sec:apendice' on page 4 undefined on input line 185.
 
 ) [4]
 \openout2 = `chapter02.aux'.
@@ -1410,7 +1410,7 @@ hapter04.aux) (./chapter05.aux) (./chapter06.aux) (./chapter07.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `cometomoodle.out' has not changed.
-(rerunfilecheck)             Checksum: 676ACB4472AD8B6AAD0CA33A31A00923;4108.
+(rerunfilecheck)             Checksum: A2AC15FAAC092E827F66FCACE02F3E6A;4108.
 
 
 LaTeX Warning: There were undefined references.
@@ -1423,7 +1423,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
 Here is how much of TeX's memory you used:
  8484 strings out of 493485
  122862 string characters out of 3143526
- 222583 words of memory out of 3000000
+ 222587 words of memory out of 3000000
  11283 multiletter control sequences out of 15000+200000
  76527 words of font info for 84 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1438,7 +1438,7 @@ dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cometomoodle.pdf (47 pages, 1971141 bytes).
+Output written on cometomoodle.pdf (47 pages, 1971153 bytes).
 PDF statistics:
  810 PDF objects out of 1000 (max. 8388607)
  655 compressed objects within 7 object streams
